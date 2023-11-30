@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Concesionaria
+comment1.params=
+comment1.target=Concesionaria()
+comment2.params=vehiculo
+comment2.target=void\ ingresaVehiculo(VehiculoBase)
+comment3.params=id
+comment3.target=boolean\ borraVehiculo(int)
+comment4.params=
+comment4.target=int\ tama\u00F1oStock()
+comment5.params=vehiculo
+comment5.target=boolean\ hayVehiculos(VehiculoBase)
+comment6.params=
+comment6.target=void\ muestraStock()
+comment7.params=indice
+comment7.target=VehiculoBase\ obtenerVehiculo(int)
+comment8.params=
+comment8.target=void\ faltaMantenimiento()
+comment9.params=
+comment9.target=void\ ordenarID()
+numComments=10

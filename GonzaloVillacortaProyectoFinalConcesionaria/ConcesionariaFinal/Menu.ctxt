@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Menu
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=Concesionaria\ cargaArchivoDeConcesionaria()
+comment3.params=
+comment3.target=Taller\ cargaArchivoDeTaller()
+comment4.params=concesionaria
+comment4.target=void\ guardaConcesionariaEnArchivo(Concesionaria)
+comment5.params=taller
+comment5.target=void\ guardaTallerEnArchivo(Taller)
+comment6.params=
+comment6.target=int\ cargaElUltimoId()
+comment7.params=ultimoID
+comment7.target=void\ guardaElUltimoId(int)
+numComments=8

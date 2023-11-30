@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Automovil
+comment1.params=
+comment1.target=Automovil()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=tipo\ color\ km\ a\u00F1o\ marca\ modelo
+comment2.target=Automovil(java.lang.String,\ Colores,\ java.lang.Integer,\ java.lang.Integer,\ MarcasDeAutos,\ java.lang.String)
+comment3.params=
+comment3.target=MarcasDeAutos\ getMarca()
+comment4.params=
+comment4.target=java.lang.String\ getModelo()
+comment5.params=marca
+comment5.target=void\ setMarca(MarcasDeAutos)
+comment6.params=modelo
+comment6.target=void\ setModelo(java.lang.String)
+comment7.params=
+comment7.target=Automovil\ crearAuto()
+comment8.params=sc
+comment8.target=int\ obtenerA\u00F1o(java.util.Scanner)
+comment9.params=a\u00F1o
+comment9.target=void\ verificarA\u00F1o(int)
+numComments=11

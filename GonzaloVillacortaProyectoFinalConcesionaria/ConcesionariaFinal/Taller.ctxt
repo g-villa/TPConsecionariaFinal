@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Taller
+comment1.params=
+comment1.target=int\ maximaCapacidad()
+comment2.params=
+comment2.target=Taller()
+comment3.params=
+comment3.target=boolean\ quedaLugarDisponible()
+comment4.params=
+comment4.target=void\ muestraColaDeTaller()
+comment5.params=vehiculo
+comment5.target=void\ ingresoTaller(VehiculoBase)
+comment6.params=
+comment6.target=VehiculoBase\ saleTaller()
+numComments=7
